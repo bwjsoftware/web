@@ -13,6 +13,7 @@
 			<div>
 				<RouterLink to="/" class="px-2 text-tertiary text-lg font-semibold">Home</RouterLink>
 				<RouterLink to="/projects" class="px-2 text-tertiary text-lg font-semibold">Projects</RouterLink>
+				<a href="/resume.pdf" target="_blank" rel="noopener noreferrer" class="px-2 text-tertiary text-lg font-semibold">Resume</a>
 			</div>
 			<div class="flex float-right">
 				<a href="https://github.com/bwjsoftware" target="_blank" rel="noopener noreferrer" class="px-2">
